@@ -1,0 +1,2 @@
+#SQL Project 1
+This is just a simple sql projects trying to implement everything I have learnt in just a small database project with SQL, the aim of this is to create a database where I can insert books by create three tables for books author and loans, which allows us to add users that loaned a book and keep track of the book they loaned the date autho and type of the book (including the year it was published) they loaned.
