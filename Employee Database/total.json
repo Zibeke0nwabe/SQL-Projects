@@ -1,0 +1,22 @@
+[
+	{
+		"Employees" : 7,
+		"location" : "Johannesburg",
+		"total_salary" : 517000.00
+	},
+	{
+		"Employees" : 5,
+		"location" : "Cape Town",
+		"total_salary" : 395000.00
+	},
+	{
+		"Employees" : 5,
+		"location" : "Durban",
+		"total_salary" : 390000.00
+	},
+	{
+		"Employees" : 1,
+		"location" : "Port Elizabeth",
+		"total_salary" : 95000.00
+	}
+]

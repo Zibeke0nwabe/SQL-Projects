@@ -1,0 +1,10 @@
+[
+	{
+		"gender" : "Male",
+		"still_employed" : 8
+	},
+	{
+		"gender" : "Female",
+		"still_employed" : 9
+	}
+]

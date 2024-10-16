@@ -1,4 +1,3 @@
-
 CREATE SCHEMA Grade12DB;
 use Grade12DB;
 CREATE TABLE Students (

@@ -1,0 +1,38 @@
+[
+	{
+		"year" : 2015,
+		"total_revenue" : 2000000.00
+	},
+	{
+		"year" : 2016,
+		"total_revenue" : 2400000.00
+	},
+	{
+		"year" : 2017,
+		"total_revenue" : 2800000.00
+	},
+	{
+		"year" : 2018,
+		"total_revenue" : 3000000.00
+	},
+	{
+		"year" : 2019,
+		"total_revenue" : 4600000.00
+	},
+	{
+		"year" : 2020,
+		"total_revenue" : 4000000.00
+	},
+	{
+		"year" : 2021,
+		"total_revenue" : 5000000.00
+	},
+	{
+		"year" : 2022,
+		"total_revenue" : 7800000.00
+	},
+	{
+		"year" : 2023,
+		"total_revenue" : 10000000.00
+	}
+]

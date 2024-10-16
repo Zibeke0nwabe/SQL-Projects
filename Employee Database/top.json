@@ -1,0 +1,27 @@
+[
+	{
+		"Full Name" : "Thandi Mokoena",
+		"job_title" : "Product Manager",
+		"Salary" : 95000.00
+	},
+	{
+		"Full Name" : "Thabo Ndlovu",
+		"job_title" : "DevOps Engineer",
+		"Salary" : 95000.00
+	},
+	{
+		"Full Name" : "Sipho Nkosi",
+		"job_title" : "Software Engineer",
+		"Salary" : 90000.00
+	},
+	{
+		"Full Name" : "Sizwe Kekana",
+		"job_title" : "Business Analyst",
+		"Salary" : 90000.00
+	},
+	{
+		"Full Name" : "Kabelo Matlala",
+		"job_title" : "Systems Analyst",
+		"Salary" : 90000.00
+	}
+]

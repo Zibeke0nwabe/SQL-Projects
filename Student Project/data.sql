@@ -1,4 +1,3 @@
-CREATE DATABASE Grade12DB;
 INSERT INTO Students(firstName, lastName, studentEmail, gender)
 VALUES('John', 'Doe', 'john.doe@example.com', 'Male');
 INSERT INTO Students(firstName, lastName, studentEmail, gender) VALUES('Jane', 'Smith', 'jane.smith@example.com', 'Female'),

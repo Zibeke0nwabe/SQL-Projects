@@ -1,0 +1,17 @@
+[
+	{
+		"manager_id" : 1,
+		"Manager Name" : "Fiona Clark",
+		"Employees" : 7
+	},
+	{
+		"manager_id" : 3,
+		"Manager Name" : "Hannah Lewis",
+		"Employees" : 6
+	},
+	{
+		"manager_id" : 2,
+		"Manager Name" : "George Taylor",
+		"Employees" : 5
+	}
+]
